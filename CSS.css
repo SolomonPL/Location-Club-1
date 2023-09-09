@@ -1,0 +1,92 @@
+CSS
+body {
+    background-color: #fff;
+  }
+  nav {
+    background-color: #ccc;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  form {
+    margin-top: 10px;
+  }
+  
+  input {
+    width: 200px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    background-color: #ccc;
+    color: #fff;
+    padding: 10px;
+    border: none;
+  }
+  header {
+    background-color: #ccc;
+    padding: 10px;
+  }
+  
+  main {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  .products {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .products li {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .products li img {
+    width: 100px;
+  }
+  
+  .products li h3 {
+    margin-top: 0;
+  }
+  
+  .cart {
+    background-color: #ddd;
+    padding: 10px;
+  }
+  
+  .cart ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .cart li {
+    border-top: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .cart li button {
+    background-color: #ccc;
+    color: #fff;
+    padding: 10px;
+    border: none;
+  }
